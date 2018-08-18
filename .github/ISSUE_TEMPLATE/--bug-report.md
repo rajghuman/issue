@@ -4,32 +4,42 @@ about: "If something isn't working as expected  \U0001F494 "
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+- [ ] I’ve read and understood the [Contributing guidelines](./CONTRIBUTING.md) and have done my best effort to follow them.
+- [ ] I’ve read and agree to the [Code of Conduct](./CODE_OF_CONDUCT.md).
+- [ ] I’ve searched for any related issues and avoided creating a duplicate issue.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+# What happened
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+<!--
+	What happened that makes you think this is a bug or missing feature?
+-->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+# What I expected to happen
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+<!--
+	What did you expect to happen. You can skip this section if this is a feature request.
+-->
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
 
-**Additional context**
-Add any other context about the problem here.
+# Reproducing
+
+- Module name:
+- Module version:
+- Pancake version:
+- Node version:
+- npm version:
+- Pancake settings in your `package.json`:
+
+Steps to reproduce:
+
+1.
+2.
+3.
+4.
+
+
+# Attachments
+
+<!--
+	Screenshots, logs, repo link, CodePen etc
+-->
